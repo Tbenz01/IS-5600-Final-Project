@@ -11,3 +11,5 @@ git push -u origin main
 `git add .`
 
 `git commit -m "<commit message>"`
+
+`git push origin <branch name>`
