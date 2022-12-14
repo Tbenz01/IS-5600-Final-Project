@@ -9,3 +9,5 @@ git remote add origin https://github.com/Tbenz01/IS-5600-Lab-08.git
 git push -u origin main
 
 `git add .`
+
+`git commit -m "<commit message>"`
