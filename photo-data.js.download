@@ -1,0 +1,120 @@
+const content = `
+[
+   {
+      "id":"3a5c5da5-5a12-4d2b-b0dd-abc28eaf810b",
+      "title":"Dominican Sancocho",
+      "description":"Sancocho is the King of Dominican dishes. Ask anyone what they consider THE dish of the Dominican Republic and a few dishes come to mind. Of course you have Mangu, Habichuelas, Chimis, and Pollo Guisado. But no list is complete without Sancocho! It’s the definition of Dominican culture all in one plate. And like many traditional dishes, there’s more than one way of making this dish. In fact, this dish varies from region to region. I love watching family debate on what makes a “true Sancocho.”",
+      "location":{
+         "iso":"GB",
+         "country":"(Vegatables and Meats Stew)",
+         "city":"RECIPE",
+         "continent":"DR"
+      },
+      "filename":"Sancocho.jpg",
+      "colors":[
+         {
+            "hex":"#a9b490",
+            "name":"1. Season the 3 Meats",
+            "luminance": 119.73308884347718
+         },
+         {
+            "hex":"#bab984",
+            "name":"2. Cook the Meats",
+            "luminance": 126.89369264467008
+         },
+         {
+            "hex":"#71735c",
+            "name":"3. Add Peeled Vegetables",
+            "luminance": 79.31501427220448
+         },
+         {
+            "hex":"#332625",
+            "name":"4. Simmer in Water 2hrs",
+            "luminance": 26.78974027496347
+         },
+         {
+            "hex":"#b99a5d",
+            "name":"5. Serve with Rice",
+            "luminance": 102.55295407251806
+         }
+      ]
+   },
+   {
+      "id":"fbc534dd-3bc0-4419-a5be-a8b93ffe463e",
+      "title":"Empanadas de Yuca",
+      "description":"Empanaditas de Yuca (Cassava Empanadas): a delicious, gluten-free empanadas made with cassava flour, and that has a surprising crunchiness.",
+      "location":{
+         "iso":"GB",
+         "country":"(Cassava Empanadas)",
+         "city":"RECIPE",
+         "continent":"PR"
+      },
+      "filename":"Empanadas.jpg",
+      "colors":[
+         {
+            "hex":"#e8ab9a",
+            "name":"1. Grate Cassava",
+            "luminance": 128.1748716285684
+         },
+         {
+            "hex":"#137e84",
+            "name":"2. Cook the Meat Filling",
+            "luminance": 59.31471889000233
+         },
+         {
+            "hex":"#11161d",
+            "name":"3. Make Cassava Disks",
+            "luminance": 25.094035247444758
+         },
+         {
+            "hex":"#0c4656",
+            "name":"4. Fill & Fry the Stuffed Disks",
+            "luminance": 43.7638648316165
+         },
+         {
+            "hex":"#91d6d8",
+            "name":"5. Serve with Fav Dipping Sauce",
+            "luminance": 133.64699760563272
+         }
+      ]
+   },
+   {
+      "id":"78c548ce-9202-4ab2-b276-5be38607a9cc",
+      "title":"Mofongo",
+      "description":"Mofongo is a Puerto Rican dish with plantains as its main ingredient. Plantains are picked green, cut into pieces and typically fried but can be boiled or roasted, then mashed with salt, garlic, broth, and olive oil in a wooden pilón. The goal is to produce a tight ball of mashed plantains that will absorb the attending condiments and have either pork cracklings or bits of bacon inside.",
+      "location":{
+         "iso":"GB",
+         "country":"(Puerto Rican Mofongo)",
+         "city":"RECIPE",
+         "continent":"PR"
+      },     
+      "filename":"Mofongo.jpg",
+      "colors": [
+        {
+            "hex": "#9c7b61",
+            "name": "1. Peel Green Plantains",
+            "luminance": 88.78895209427803
+        },
+        {
+            "hex": "#d1b083",
+            "name": "2. Cut & Fry Plantains",
+            "luminance": 122.80440714404348
+        },
+                {
+            "hex": "#79b0d5",
+            "name": "3. Season, Smash, Form Bowls",
+            "luminance": 148.5727584316856
+        },
+        {
+            "hex": "#e2d3b5",
+            "name": "4. Fill with Favorite Meat",
+            "luminance": 141.04035031507826
+        },
+        {
+            "hex": "#eca573",
+            "name": "5. Enjoy!",
+            "luminance": 126.60767891403744
+        } 
+      ]      
+   }
+]`;
